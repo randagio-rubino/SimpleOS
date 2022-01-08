@@ -1,2 +1,2 @@
 # SimpleOS
-this is a simple OS.
+This is a simple OS.
